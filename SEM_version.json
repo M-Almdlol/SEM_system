@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "download_url": "https://github.com/M-Almdlol/SEM_system/releases/download/2.0.2/SEM-setup.exe",
-  "changelog": "إصلاحات الأخطاء وتحسينات الأداء \n شكرا جزيلا للمستخدم (امير بكلمتي) على التنبيه"
+  "version": "2.1.0",
+  "download_url": "https://www.dropbox.com/scl/fi/ees2q92spb1vqkgqaj014/v2.1.0_-_.exe?rlkey=v2vrp5y2o1yuatvct4lncbsh7&st=jgcvm62x&dl=1",
+  "changelog": "اصلاح مشكلة انشاء قاعات امتحانية في ملف اكسل \n اصلاح الية التفعيل من اجل ثبات البرنامج"
 }
